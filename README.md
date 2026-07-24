@@ -1,4 +1,4 @@
 # python-practice.demo
 This is my first Git repository.
 <br>
-Author - Sachin
+Author - Sachin (sachinfirangi)
